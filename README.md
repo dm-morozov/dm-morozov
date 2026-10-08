@@ -6,7 +6,7 @@
 
 ### Что я делал на Python
 
-- **[My Cloud](https://github.com/dm-morozov/netology_78_cloud-file-storage-graduation-project)** — файловое хранилище: REST API на Django REST Framework и PostgreSQL, управление доступом, публичные ссылки, тесты и развёртывание на Ubuntu с Gunicorn и Nginx. Клиент написан на React и TypeScript.
+- **[My Cloud](https://github.com/dm-morozov/my-cloud)** — персональное файловое хранилище на Django REST Framework, PostgreSQL и React + TypeScript. Сессионная аутентификация с CSRF-защитой, права пользователя и администратора, загрузка файлов, поиск и публичные ссылки. Backend развёрнут в Docker на Ubuntu VDS с Gunicorn, Nginx и HTTPS; frontend публикуется на GitHub Pages через GitHub Actions. [Открыть приложение](https://mycloud.mu56.ru/).
 - **[Практика Django и DRF](https://github.com/dm-morozov/Netology_25_Django_homework_all)** — учебные работы по Django ORM, REST API, CRUD, правам доступа и тестированию с pytest.
 - **[VKinder](https://github.com/dm-morozov/Netology_21_VKinder_Team)** — командный проект с VK API и PostgreSQL. Я проектировал базу данных, модели сущностей и классы приложения.
 - **[Резервное копирование фотографий](https://github.com/dm-morozov/Netology_Course_work__Backup_from_VK_to_Ya_Disk_and_Google_drive)** — интеграция VK API, Яндекс Диска и Google Drive.
