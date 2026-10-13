@@ -12,16 +12,16 @@
 
 ## Продукты и сервисы
 
-- **[«Мир улыбок»](https://mu56.ru/)** — платформа агентства праздников. Django/DRF, PostgreSQL, Next.js: каталог, серверный расчёт стоимости, идемпотентные заявки и очередь Telegram-уведомлений. Автотесты, Docker и отдельные dev/prod среды.
-- **[My Cloud](https://mycloud.mu56.ru/)** — персональное файловое хранилище. Django/DRF, PostgreSQL, React и TypeScript: загрузка и скачивание, квоты, роли user/admin, CSRF-защита и публичные ссылки. [Исходный код](https://github.com/dm-morozov/my-cloud).
-- **[PilotSpace](https://pilotspace.ru/)** — тренажёр для пилотов и авиаспециалистов. Python-пайплайн извлечения и проверки вопросов из PDF в JSON, интерактивное тестирование, разбор ошибок и сохранение прогресса.
+- **[«Мир улыбок»](https://github.com/dm-morozov/mu56.ru)** — платформа агентства праздников. Django/DRF, PostgreSQL, Next.js: каталог, серверный расчёт стоимости, идемпотентные заявки и очередь Telegram-уведомлений. Автотесты, Docker и отдельные dev/prod среды. [Демо](https://mu56.ru/).
+- **[My Cloud](https://github.com/dm-morozov/my-cloud)** — персональное файловое хранилище. Django/DRF, PostgreSQL, React и TypeScript: загрузка и скачивание, квоты, роли user/admin, CSRF-защита и публичные ссылки. [Демо](https://mycloud.mu56.ru/).
+- **[PilotSpace](https://github.com/dm-morozov/pilotspace.ru)** — тренажёр для пилотов и авиаспециалистов. Python-пайплайн извлечения и проверки вопросов из PDF в JSON, интерактивное тестирование, разбор ошибок и сохранение прогресса. [Демо](https://pilotspace.ru/).
 
 ## Другие проекты
 
 - **[Django / DRF](https://github.com/dm-morozov/Netology_25_Django_homework_all)** — REST API, Django ORM, права доступа и ограничение частоты запросов.
-- **[Bosa Noga](https://dm-morozov.github.io/netology_77_react-diploma-project/)** — магазин на React и TypeScript: каталог, поиск, фильтры, корзина и оформление демо-заказа. API работает в Docker на Ubuntu VDS. [Код](https://github.com/dm-morozov/netology_77_react-diploma-project).
-- **[User Management Flask](https://dm-morozov.github.io/user-management-flask/)** — Flask/SQLite API и TypeScript-клиент: валидация, обработка повторного email, Docker, Gunicorn и постоянный том SQLite. [Код](https://github.com/dm-morozov/user-management-flask).
-- **[Retro Game](https://github.com/dm-morozov/Netology_64_diploma_assignment_course_advanced_javascript_retro_game)** — игровая логика на TypeScript и тесты Jest.
+- **[Bosa Noga](https://github.com/dm-morozov/netology_77_react-diploma-project)** — магазин на React и TypeScript: каталог, поиск, фильтры, корзина и оформление демо-заказа. API работает в Docker на Ubuntu VDS. [Демо](https://dm-morozov.github.io/netology_77_react-diploma-project/).
+- **[User Management Flask](https://github.com/dm-morozov/user-management-flask)** — Flask/SQLite API и TypeScript-клиент: валидация, обработка повторного email, Docker, Gunicorn и постоянный том SQLite. [Демо](https://dm-morozov.github.io/user-management-flask/).
+- **[Retro Game](https://github.com/dm-morozov/Netology_64_diploma_assignment_course_advanced_javascript_retro_game)** — игровая логика на TypeScript и тесты Jest. [Демо](https://dm-morozov.github.io/Netology_64_diploma_assignment_course_advanced_javascript_retro_game/).
 
 Интеграции: Telegram Bot API, VK API, Яндекс Диск и Google Drive. Подробнее — в портфолио.
 
