@@ -1,27 +1,32 @@
-# Привет! Я Дмитрий Морозов 👋
+# Дмитрий Морозов
 
-Ищу работу **Junior Python backend-разработчиком**. Пишу API на Django REST Framework, работаю с PostgreSQL и интегрирую внешние сервисы. Также разрабатываю интерфейсы на JavaScript, TypeScript и React. Мне интересны продуктовые задачи и работа в команде, где можно получать обратную связь по коду.
+### Python backend-разработчик · Django / DRF
 
-По образованию я инженер-программист. Завершил 22-месячную профессиональную переподготовку «Fullstack-разработчик на Python» в Нетологии. У меня также есть два года коммерческого опыта веб-разработки на PHP и JavaScript. Проекты ниже выполнены во время обучения и самостоятельно.
+Разрабатываю веб-приложения и REST API на Python, Django/DRF и PostgreSQL: работа с данными, авторизация, интеграции и автотесты. С января 2022 года занимаюсь коммерческой веб-разработкой на PHP и JavaScript в Студии Кудинова. По образованию — инженер-программист.
 
-### Что я делал на Python
+**Python · Django / DRF · PostgreSQL · REST API · pytest · Docker · Linux**
 
-- **[My Cloud](https://github.com/dm-morozov/my-cloud)** — персональное файловое хранилище на Django REST Framework, PostgreSQL и React + TypeScript. Сессионная аутентификация с CSRF-защитой, права пользователя и администратора, загрузка файлов, поиск и публичные ссылки. Backend развёрнут в Docker на Ubuntu VDS с Gunicorn, Nginx и HTTPS; frontend публикуется на GitHub Pages через GitHub Actions. [Открыть приложение](https://mycloud.mu56.ru/).
-- **[Практика Django и DRF](https://github.com/dm-morozov/Netology_25_Django_homework_all)** — учебные работы по Django ORM, REST API, CRUD, правам доступа и тестированию с pytest.
-- **[VKinder](https://github.com/dm-morozov/Netology_21_VKinder_Team)** — командный проект с VK API и PostgreSQL. Я проектировал базу данных, модели сущностей и классы приложения.
-- **[Резервное копирование фотографий](https://github.com/dm-morozov/Netology_Course_work__Backup_from_VK_to_Ya_Disk_and_Google_drive)** — интеграция VK API, Яндекс Диска и Google Drive.
-- **[Telegram-бот для изучения английского](https://github.com/dm-morozov/Netology_14_Telegram_Bot)** — Python, telebot, PostgreSQL и SQLAlchemy.
+Также работаю с Flask, SQLAlchemy, JavaScript, TypeScript и React. Настраиваю Docker Compose, Nginx, Gunicorn и CI/CD в GitHub Actions. Использую AI-инструменты для разработки, отладки и тестирования; проверяю код и работу приложения перед публикацией.
 
-Тестирование: [pytest в учебных проектах](https://github.com/dm-morozov/Netology_31_Testing_django_applications_using_pytest), Django Test Framework в My Cloud.
+Оренбург · Удалённо, гибрид или офис · Готов к переезду
 
-### Frontend и fullstack
+## Продукты и сервисы
 
-- **[Bosa Noga — React-диплом](https://github.com/dm-morozov/netology_77_react-diploma-project)** — учебный интернет-магазин на React и TypeScript: каталог, поиск, карточка товара, корзина и оформление заказа; Redux Toolkit и Redux-Saga.
-- **[Retro Game](https://github.com/dm-morozov/Netology_64_diploma_assignment_course_advanced_javascript_retro_game)** — пошаговая игра на TypeScript с игровой логикой, компьютерным соперником и тестами Jest. [Демо](https://dm-morozov.github.io/Netology_64_diploma_assignment_course_advanced_javascript_retro_game/).
-- **[User Management](https://github.com/dm-morozov/user-management-flask)** — тестовое задание агентства «Победа» в Лаборатории практики Нетологии: REST API на Flask/SQLite, TypeScript-клиент, валидация и CI/CD.
+- **[«Мир улыбок»](https://mu56.ru/)** — платформа агентства праздников. Django/DRF, PostgreSQL, Next.js: каталог, серверный расчёт стоимости, идемпотентные заявки и очередь Telegram-уведомлений. Автотесты, Docker и отдельные dev/prod среды.
+- **[My Cloud](https://mycloud.mu56.ru/)** — персональное файловое хранилище. Django/DRF, PostgreSQL, React и TypeScript: загрузка и скачивание, квоты, роли user/admin, CSRF-защита и публичные ссылки. [Исходный код](https://github.com/dm-morozov/my-cloud).
+- **[PilotSpace](https://pilotspace.ru/)** — тренажёр для пилотов и авиаспециалистов. Python-пайплайн извлечения и проверки вопросов из PDF в JSON, интерактивное тестирование, разбор ошибок и сохранение прогресса.
 
-### Резюме и связь
+## Другие проекты
 
-- [Полное резюме, опыт и остальные проекты](https://github.com/dm-morozov/resume-fullstack-py-js)
-- [Диплом профессиональной переподготовки](https://github.com/dm-morozov/resume-fullstack-py-js/blob/main/certificates_course_netology/diploma_fullstack_python.pdf)
-- [Telegram](https://t.me/dem2014) · [Почта](mailto:dem.morozov@gmail.com)
+- **[Django / DRF](https://github.com/dm-morozov/Netology_25_Django_homework_all)** — REST API, Django ORM, права доступа и ограничение частоты запросов.
+- **[Bosa Noga](https://dm-morozov.github.io/netology_77_react-diploma-project/)** — магазин на React и TypeScript: каталог, поиск, фильтры, корзина и оформление демо-заказа. API работает в Docker на Ubuntu VDS. [Код](https://github.com/dm-morozov/netology_77_react-diploma-project).
+- **[User Management Flask](https://dm-morozov.github.io/user-management-flask/)** — Flask/SQLite API и TypeScript-клиент: валидация, обработка повторного email, Docker, Gunicorn и постоянный том SQLite. [Код](https://github.com/dm-morozov/user-management-flask).
+- **[Retro Game](https://github.com/dm-morozov/Netology_64_diploma_assignment_course_advanced_javascript_retro_game)** — игровая логика на TypeScript и тесты Jest.
+
+Интеграции: Telegram Bot API, VK API, Яндекс Диск и Google Drive. Подробнее — в портфолио.
+
+## Резюме и связь
+
+[Полное резюме и портфолио](https://github.com/dm-morozov/resume-fullstack-py-js) · [Резюме PDF](https://github.com/dm-morozov/resume-fullstack-py-js/blob/main/dmitry_morozov_backend_resume.pdf)
+
+[Telegram: @dem2014](https://t.me/dem2014) · [Email](mailto:dem.morozov@gmail.com)
